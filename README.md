@@ -14,6 +14,7 @@ Controls for the program:
   Left-click brings up a menu to configure different aspects of the program
   
   Keyboard Controls:
+  
     -x, X (shift x value of the viewer (x changes position by -1 and X by +1))
     -y, Y (shift y value of the viewer (y changes position by -1 and Y by +1))
     -z, Z (shift z value of the viewer (z changes position by -1 and Z by +1))
@@ -21,6 +22,7 @@ Controls for the program:
     -b, B (Initially start the program)
     
   Texture Mapping Keyboard Controls
+  
     -v, V (Changes the texture mapping to verticle)
     -s, S (Changes the texture mapping to slanted)
     -e, E (Changes the texture mapping to the eye frame)
