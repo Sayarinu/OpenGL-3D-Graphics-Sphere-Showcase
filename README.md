@@ -20,12 +20,12 @@ Controls for the program:
     
     -b, B (Initially start the program)
     
-    Texture Mapping Controls
-      -v, V (Changes the texture mapping to verticle)
-      -s, S (Changes the texture mapping to slanted)
-      -e, E (Changes the texture mapping to the eye frame)
-      -o, O (Changes the texture mapping to the object frame)
-      -u, U (Changes the texture mapping to be upright)
-      -t, T (Changes the texture mapping to be tilted)
-      -l, L (Toggles the lattice effect during texture mapping)
+  Texture Mapping Keyboard Controls
+    -v, V (Changes the texture mapping to verticle)
+    -s, S (Changes the texture mapping to slanted)
+    -e, E (Changes the texture mapping to the eye frame)
+    -o, O (Changes the texture mapping to the object frame)
+    -u, U (Changes the texture mapping to be upright)
+    -t, T (Changes the texture mapping to be tilted)
+    -l, L (Toggles the lattice effect during texture mapping)
     
